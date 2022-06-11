@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuoguT", "LuoguT\LuoguT.vcxproj", "{28A00590-CAE7-4C4D-89F2-00263A986966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Debug|x64.ActiveCfg = Debug|x64
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Debug|x64.Build.0 = Debug|x64
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Debug|x86.ActiveCfg = Debug|Win32
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Debug|x86.Build.0 = Debug|Win32
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Release|x64.ActiveCfg = Release|x64
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Release|x64.Build.0 = Release|x64
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Release|x86.ActiveCfg = Release|Win32
+		{28A00590-CAE7-4C4D-89F2-00263A986966}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4C6293-80DF-4C87-8F2D-25B4ED79129A}
+	EndGlobalSection
+EndGlobal
